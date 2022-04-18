@@ -1,0 +1,6 @@
+{
+  "mongodb": "mongodb+srv://S-Devconnector:XaxrBLGg0PryK3zs@devconnector.1p5ut.mongodb.net/GoogleAuth?retryWrites=true&w=majority",
+  "GClient": "608622595852-91gkg1aqnvv5l1vdh28otsqe2u215l00.apps.googleusercontent.com",
+  "GSecret": "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",
+  "jwtSecret": "teleport weak task port hash four taken words hollow"
+}
