@@ -24,6 +24,8 @@
 ```json
 {
   "mongodb": "[CONNECTION STRING]",
+  "GClient": "[CLIENT ID]",
+  "GSecret": "[CLIENT SECRET]",
   "jwtSecret": "[SECRET]"
 }
 ```
